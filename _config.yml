@@ -4,7 +4,8 @@ email: bioliu@ucla.edu
 description: > # this means to ignore newlines until "baseurl:"
   Jiageng Liu, UCLA student, AI ethusiast.
 
-twitter_username: 
+# twitter_username: 
+zhihu_username: jiagengliu
 github_username:  jiagengliu
 
 # Minima date format
